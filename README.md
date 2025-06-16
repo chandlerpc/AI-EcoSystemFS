@@ -1,7 +1,3 @@
-# Sample submission for the Building a Rule-Based AI System in Python project.
-
----
-
 ## Part 1: Initial Project Ideas
 
 ### 1. Project Idea 1: Basic Customer Service Bot for a Fictional Company
